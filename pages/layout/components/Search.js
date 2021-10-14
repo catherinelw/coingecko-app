@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styles from "../../../styles/Home.module.css";
-const Search = ({ searchCoins, setAlertMesssage }) => {
+const Search = ({ searchCoins }) => {
   const [text, setText] = useState("");
   const onSubmit = (e) => {
     e.preventDefault();
