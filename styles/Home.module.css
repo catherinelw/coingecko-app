@@ -17,7 +17,6 @@
 .container h1 {
   height: 10%;
 }
-
 .container header {
   padding-left: 5px;
   width: 100vw;
@@ -31,7 +30,6 @@
   justify-content: flex-start;
   margin-bottom: 40px;
 }
-
 .link {
   padding: 10px;
 }
